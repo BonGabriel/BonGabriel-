@@ -1,4 +1,4 @@
-# <h1>Hi, I'm Gabriel, an <a href="linkedin.com/in/gabriel-sofie-8a5b1913b">IT Professional</a>☺</h1>
+ <h1>Hi, I'm Gabriel, an <a href="https://linkedin.com/in/gabriel-sofie-8a5b1913b">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
